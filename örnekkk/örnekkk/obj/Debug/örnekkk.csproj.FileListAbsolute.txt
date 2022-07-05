@@ -1,0 +1,37 @@
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\bin\Debug\örnekkk.exe.config
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\bin\Debug\örnekkk.exe
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\bin\Debug\örnekkk.pdb
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\obj\Debug\örnekkk.csprojAssemblyReference.cache
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\obj\Debug\örnekkk.Properties.Resources.resources
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\obj\Debug\örnekkk.csproj.GenerateResource.cache
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\obj\Debug\örnekkk.csproj.CoreCompileInputs.cache
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\obj\Debug\örnekkk.exe
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\obj\Debug\örnekkk.pdb
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\obj\Debug\örnekkk.masalar.resources
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\obj\Debug\örnekkk.masa1.resources
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\obj\Debug\örnekkk.masa2.resources
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\obj\Debug\örnekkk.menüler.resources
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\obj\Debug\örnekkk.personeller.resources
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\obj\Debug\örnekkk.siparisler.resources
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\obj\Debug\örnekkk.masa3.resources
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\obj\Debug\örnekkk.Kasa.resources
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\obj\Debug\örnekkk.KasierGirisi.resources
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\obj\Debug\örnekkk.Giris.resources
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\obj\Debug\örnekkk.YöneticiGirisi.resources
+C:\Users\BEYZANUR\source\repos\örnekkk\örnekkk\obj\Debug\örnekkk.GarsonGirisi.resources
+C:\Users\beyza\OneDrive\Masaüstü\Beyza Flash\BEYZA FLASH(dersler)\2 ve 3. sınıf ödevleri\Otomasyonn\örnekkk\örnekkk\obj\Debug\örnekkk.csprojAssemblyReference.cache
+C:\Users\beyza\OneDrive\Masaüstü\Beyza Flash\BEYZA FLASH(dersler)\2 ve 3. sınıf ödevleri\Otomasyonn\örnekkk\örnekkk\obj\Debug\örnekkk.Giris.resources
+C:\Users\beyza\OneDrive\Masaüstü\Beyza Flash\BEYZA FLASH(dersler)\2 ve 3. sınıf ödevleri\Otomasyonn\örnekkk\örnekkk\obj\Debug\örnekkk.YöneticiGirisi.resources
+C:\Users\beyza\OneDrive\Masaüstü\Beyza Flash\BEYZA FLASH(dersler)\2 ve 3. sınıf ödevleri\Otomasyonn\örnekkk\örnekkk\obj\Debug\örnekkk.GarsonGirisi.resources
+C:\Users\beyza\OneDrive\Masaüstü\Beyza Flash\BEYZA FLASH(dersler)\2 ve 3. sınıf ödevleri\Otomasyonn\örnekkk\örnekkk\obj\Debug\örnekkk.Kasa.resources
+C:\Users\beyza\OneDrive\Masaüstü\Beyza Flash\BEYZA FLASH(dersler)\2 ve 3. sınıf ödevleri\Otomasyonn\örnekkk\örnekkk\obj\Debug\örnekkk.KasierGirisi.resources
+C:\Users\beyza\OneDrive\Masaüstü\Beyza Flash\BEYZA FLASH(dersler)\2 ve 3. sınıf ödevleri\Otomasyonn\örnekkk\örnekkk\obj\Debug\örnekkk.masa1.resources
+C:\Users\beyza\OneDrive\Masaüstü\Beyza Flash\BEYZA FLASH(dersler)\2 ve 3. sınıf ödevleri\Otomasyonn\örnekkk\örnekkk\obj\Debug\örnekkk.masa2.resources
+C:\Users\beyza\OneDrive\Masaüstü\Beyza Flash\BEYZA FLASH(dersler)\2 ve 3. sınıf ödevleri\Otomasyonn\örnekkk\örnekkk\obj\Debug\örnekkk.masa3.resources
+C:\Users\beyza\OneDrive\Masaüstü\Beyza Flash\BEYZA FLASH(dersler)\2 ve 3. sınıf ödevleri\Otomasyonn\örnekkk\örnekkk\obj\Debug\örnekkk.masalar.resources
+C:\Users\beyza\OneDrive\Masaüstü\Beyza Flash\BEYZA FLASH(dersler)\2 ve 3. sınıf ödevleri\Otomasyonn\örnekkk\örnekkk\obj\Debug\örnekkk.menüler.resources
+C:\Users\beyza\OneDrive\Masaüstü\Beyza Flash\BEYZA FLASH(dersler)\2 ve 3. sınıf ödevleri\Otomasyonn\örnekkk\örnekkk\obj\Debug\örnekkk.personeller.resources
+C:\Users\beyza\OneDrive\Masaüstü\Beyza Flash\BEYZA FLASH(dersler)\2 ve 3. sınıf ödevleri\Otomasyonn\örnekkk\örnekkk\obj\Debug\örnekkk.siparisler.resources
+C:\Users\beyza\OneDrive\Masaüstü\Beyza Flash\BEYZA FLASH(dersler)\2 ve 3. sınıf ödevleri\Otomasyonn\örnekkk\örnekkk\obj\Debug\örnekkk.csproj.GenerateResource.cache
+C:\Users\beyza\OneDrive\Masaüstü\Beyza Flash\BEYZA FLASH(dersler)\2 ve 3. sınıf ödevleri\Otomasyonn\örnekkk\örnekkk\obj\Debug\örnekkk.exe
+C:\Users\beyza\OneDrive\Masaüstü\Beyza Flash\BEYZA FLASH(dersler)\2 ve 3. sınıf ödevleri\Otomasyonn\örnekkk\örnekkk\obj\Debug\örnekkk.pdb

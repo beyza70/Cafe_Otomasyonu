@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "örnekkk", "örnekkk\örnekkk.csproj", "{78DC9CD7-A544-4325-A47F-9EC3C28085B5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Cafe Otomasyonu", "cafeee\cafeee.vdproj", "{9CB6633F-6F22-48B0-B551-6CB25764DFCA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "cafeOtomasynu", "cafeOtomasynu\cafeOtomasynu.vdproj", "{91FEDB7D-85CD-44EC-9E7E-18DBF6984D48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78DC9CD7-A544-4325-A47F-9EC3C28085B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DC9CD7-A544-4325-A47F-9EC3C28085B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DC9CD7-A544-4325-A47F-9EC3C28085B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DC9CD7-A544-4325-A47F-9EC3C28085B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB6633F-6F22-48B0-B551-6CB25764DFCA}.Debug|Any CPU.ActiveCfg = Debug
+		{9CB6633F-6F22-48B0-B551-6CB25764DFCA}.Release|Any CPU.ActiveCfg = Release
+		{91FEDB7D-85CD-44EC-9E7E-18DBF6984D48}.Debug|Any CPU.ActiveCfg = Debug
+		{91FEDB7D-85CD-44EC-9E7E-18DBF6984D48}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE2C6603-3BF1-42E1-BF2B-CC6FFEF38D87}
+	EndGlobalSection
+EndGlobal
